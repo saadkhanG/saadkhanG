@@ -39,8 +39,8 @@ Looking for an opportunity to enhance my App-development skills and utilize my e
 
 ## &#x1f4c8; GitHub Stats
 
-[![saadkhanG's GitHub | Dependencies](https://stats.quine.sh/saadkhanG/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=saadkhanG)
-[![saadkhanG's GitHub | Stats](https://stats.quine.sh/saadkhanG/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=saadkhanG)
+[![](https://stats.quine.sh/saadkhanG/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=saadkhanG)
+[![](https://stats.quine.sh/saadkhanG/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=saadkhanG)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhanG&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhanG&theme=nord_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhanG&theme=nord_dark)
