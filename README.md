@@ -25,7 +25,7 @@
 <h1 align="center">Connect with me:</h3>
 <p align="center">
 
-<a href="[www.linkedin.com/in/saad-khan-5a4167236](https://www.linkedin.com/in/saad-khan-5a4167236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadkhanG" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saad-khan-5a4167236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadkhanG" height="30" width="40" /></a>
 <a href="https://www.facebook.com/saadkhan2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad arham" height="30" width="40" /></a>
 <a href="[https://instagram.com/arham.8x](https://www.instagram.com/saaad_here/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arham.8x" height="30" width="40" /></a>
 
